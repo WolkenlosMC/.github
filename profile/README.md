@@ -1,5 +1,6 @@
-## Hi there 👋
-Test
+## Offizielles WolkenlosMC.eu Github-Profil  
+
+Trete unserem [Discord Server](https://discord.gg/CX3m2NDP6d) bei.
 
 <!--
 
