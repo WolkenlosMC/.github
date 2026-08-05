@@ -27,7 +27,7 @@ Unser Netzwerk und unsere Tools basieren auf einer modernen und isolierten Infra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Unsere Projekte
-In dieser Organisation findest du unsere Open-Source-Projekte. Dazu gehören beispielsweise unsere eigenen Minecraft-Plugins _(wie unser [WTAB-Plugin](http://dev.wolkenlosmc.de/github/wtab) für Tab-Listen)_. Schau dich gerne in unseren Repositories um!
+In dieser Organisation findest du unsere Open-Source-Projekte. Dazu gehören beispielsweise unsere eigenen Minecraft-Plugins _(wie unser [WTab-Plugin](http://dev.wolkenlosmc.de/github/wtab) für Tab-Listen)_. Schau dich gerne in unseren Repositories um!
 
 ## Community & Support
 Wir freuen uns immer über neue Gesichter in der Community oder Entwickler, die mit uns wachsen wollen. 
